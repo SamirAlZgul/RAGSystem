@@ -1,7 +1,7 @@
 # RAG_answers_for_questions
 
 ## Description
-This project implements a Retrieval-Augmented Generation (RAG) system that integrates a language model with a document retrieval system. In this project, we will create an assistant who will be able to answer any questions about the lives of famous personalities. To do this, we will implement semantic knowledge base search, we will add information search on the Internet. It is a good demonstration, how to implement RAG with minimum resourses.
+This project implements a Retrieval-Augmented Generation (RAG) system that integrates a language model with a document retrieval system. In this project, we will create an assistant who will be able to answer any questions about the lives of famous personalities. To do this, we will implement semantic knowledge base search, we will add information search on the Internet. It is a good demonstration, how to implement RAG with
 
 ## Main Features
 
