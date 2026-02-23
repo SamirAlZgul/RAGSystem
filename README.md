@@ -11,7 +11,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system that integ
  - **Cross-Encoder for Selection**: To ensure the most relevant chunks are selected, a cross-encoder is employed, which evaluates and ranks the candidate documents based on their relevance to the query.
 
 ### 2. **Internet Search**
- - **Real-time Search**: Conducts real-time internet searches to retrieve the latest information about famous personalities.
+ - **Real-time Search**: Conducts real-time internet searches to retrieve the latest information about famous personalities (in a simplified version)
  - **Context Integration**: Extracts and analyzes contextual information from web pages, which is then used to refine and enrich the generated responses.
 
 ### 3. **Response Generation**
